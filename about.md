@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Home
+title: About
 ---
+
+# About page
+
+This page tells you a little bit about me.
 
 <!DOCTYPE html>
 <html>
